@@ -1,4 +1,4 @@
-# Image Captioning with VisionEncoderDecoder
+# Image Captioning with Vision Transformer and LLMS
 
 This repository contains the implementation of an image captioning model that integrates Vision Transformer (ViT) and GPT-J to generate descriptive captions for images. The model is built using the Hugging Face Transformers library and is trained on the COCO dataset.
 
