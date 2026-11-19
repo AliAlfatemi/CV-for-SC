@@ -7,6 +7,8 @@ GPT-J language decoder through Hugging Face's `VisionEncoderDecoderModel`.
 
 **Authors:** Ali Alfatemi, Mohamed Rahouti, Mohammed Aledhari, Nasir Ghani, Abdellah Chehri, Gwanggil Jeon
 
+**Publication:** Applied Imagery Pattern Recognition (AIPR 2025), LNCS 16446, pp. 101–114 (2026).
+
 ## Implementation
 
 [main.py](main.py) prepares COCO captions, constructs image-caption datasets,

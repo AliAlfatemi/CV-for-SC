@@ -1,25 +1,31 @@
 cff-version: 1.2.0
-message: "Please cite the accompanying paper when using this implementation."
+message: Please cite the accompanying paper when using this implementation.
 type: software
-title: "CV-for-SC"
+title: CV-for-SC
 authors:
-  - name: "Research software contributors"
-repository-code: "https://github.com/AliAlfatemi/CV-for-SC"
+- name: Research software contributors
+repository-code: https://github.com/AliAlfatemi/CV-for-SC
 preferred-citation:
-  type: article
-  title: "Vision-Language Integration for Image Captioning Using Vision Transformers and GPT-J"
-  doi: "10.1007/978-3-032-18474-0_8"
+  type: conference-paper
+  title: Vision-Language Integration for Image Captioning Using Vision Transformers and GPT-J
+  doi: 10.1007/978-3-032-18474-0_8
   year: 2026
   authors:
-    - family-names: "Alfatemi"
-      given-names: "Ali"
-    - family-names: "Rahouti"
-      given-names: "Mohamed"
-    - family-names: "Aledhari"
-      given-names: "Mohammed"
-    - family-names: "Ghani"
-      given-names: "Nasir"
-    - family-names: "Chehri"
-      given-names: "Abdellah"
-    - family-names: "Jeon"
-      given-names: "Gwanggil"
+  - family-names: Alfatemi
+    given-names: Ali
+  - family-names: Rahouti
+    given-names: Mohamed
+  - family-names: Aledhari
+    given-names: Mohammed
+  - family-names: Ghani
+    given-names: Nasir
+  - family-names: Chehri
+    given-names: Abdellah
+  - family-names: Jeon
+    given-names: Gwanggil
+  collection-title: Applied Imagery Pattern Recognition
+  conference:
+    name: Applied Imagery Pattern Recognition (AIPR 2025)
+  volume: 16446
+  start: 101
+  end: 114
